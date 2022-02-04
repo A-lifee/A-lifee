@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @A-lifee
+- 👀 I’m interested in Technoilogy and Infomation security
+- 🌱 I’m currently learning Computer sciance, Applied sciance, Cyber sec EQP (focused on pen testing)
+- 📫 You can reach me by my email, alfredian@morlandperry.me.
